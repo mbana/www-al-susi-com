@@ -1,6 +1,20 @@
 # quran.com-abu_amr_al-basri
 
-Abu ʻAmr ibn al-ʻAlāʼ al-Basri = أبو عمرو بن العلاء البصري ‎
+---
+
+![./image-cover-1.svg](./image-cover-1.svg)
+
+<!-- <img src="./image-cover-1.svg"> -->
+
+---
+
+![./image-cover-2.svg](./image-cover-2.svg)
+
+<!-- <img src="./image-cover-2.svg"> -->
+
+---
+
+Abu ʻAmr ibn al-ʻAlāʼ al-Basri = أبو عمرو بن العلاء البصري.
 
 ## Al-Susi from Abu Amr Al-Basri
 
