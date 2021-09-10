@@ -1,0 +1,9 @@
+[build]
+  command = "next build www/al-susi.com"
+  publish = "www/al-susi.com/out"
+
+[dev]
+  command = "next dev www/al-susi.com"
+
+[[plugins]]
+  package = "@netlify/plugin-nextjs"

@@ -1,3 +1,7 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3b5d86d7-c775-4325-93dc-d5caaabf4bdc/deploy-status)](https://app.netlify.com/sites/al-susi/deploys)
+
+---
+
 # quran.com-abu_amr_al-basri
 
 ---

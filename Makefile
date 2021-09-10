@@ -27,3 +27,7 @@ download:
 .PHONY: commit
 commit:
 	git commit --reuse-message=HEAD --no-edit
+
+.PHONY: www
+www:
+	cd www/al-susi.com && yarn dev
