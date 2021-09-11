@@ -25,11 +25,11 @@ export default function Home() {
 
         <hr className={styles.hr} />
 
-        <h1 className={styles.title}>
+        <p className={styles.description}>
           <Link href="/al-susi.pdf">
             <a>القرآن الكريم برواية السوسي عن أبي عمرو البصري - Al-Susi&#39;s narration on the authority of Abu Amr Al-Basri - PDF</a>
           </Link>
-        </h1>
+        </p>
 
         <hr className={styles.hr} />
 
