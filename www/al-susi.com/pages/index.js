@@ -27,7 +27,7 @@ export default function Home() {
 
         <h1 className={styles.title}>
           <Link href="/al-susi.pdf">
-            <a>القرآن الكريم برواية السوسي عن أبي عمرو البصري - Al-Susi's narration on the authority of Abu Amr Al-Basri - PDF</a>
+            <a>القرآن الكريم برواية السوسي عن أبي عمرو البصري - Al-Susi&#39;s narration on the authority of Abu Amr Al-Basri - PDF</a>
           </Link>
         </h1>
 
