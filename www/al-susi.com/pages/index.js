@@ -1,5 +1,6 @@
 import Head from 'next/head'
 import Image from 'next/image'
+import Link from 'next/link'
 import styles from '../styles/Home.module.css'
 
 export default function Home() {
@@ -24,9 +25,18 @@ export default function Home() {
 
         <hr className={styles.hr} />
 
+        <h1 className={styles.title}>
+          <Link href="/al-susi.pdf">
+            <a>القرآن الكريم برواية السوسي عن أبي عمرو البصري - Al-Susi's narration on the authority of Abu Amr Al-Basri - PDF</a>
+          </Link>
+        </h1>
+
+        <hr className={styles.hr} />
+
         <Image src="/cover-2.svg" alt="cover-1" width={600} height={200} />
 
         <hr className={styles.hr} />
+
 
         {/* <p className={styles.description}>
           Get started by editing{' '}
