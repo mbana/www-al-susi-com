@@ -27,8 +27,11 @@ export default function Home() {
 
         <p className={styles.description}>
           <Link href="/al-susi.pdf">
-            <a>القرآن الكريم برواية السوسي عن أبي عمرو البصري - Al-Susi&#39;s narration on the authority of Abu Amr Al-Basri - PDF</a>
+            <a>Al-Susi&#39;s narration on the authority of Abu Amr Al-Basri - PDF</a>
           </Link>
+        </p>
+        <p className={styles.description}>
+          <a href="/al-susi.pdf">القرآن الكريم برواية السوسي عن أبي عمرو البصري - PDF</a>
         </p>
 
         <hr className={styles.hr} />
@@ -74,7 +77,7 @@ export default function Home() {
         </div> */}
       </main>
 
-      <footer className={styles.footer}>
+      {/* <footer className={styles.footer}>
         <a
           href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
           target="_blank"
@@ -85,7 +88,7 @@ export default function Home() {
             <Image src="/vercel.svg" alt="Vercel Logo" width={72} height={16} />
           </span>
         </a>
-      </footer>
+      </footer> */}
     </div >
   )
 }
