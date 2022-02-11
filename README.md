@@ -6,13 +6,19 @@
 
 ---
 
-![./image-cover-1.svg](./image-cover-1.svg)
+# Deployment
 
-<!-- <img src="./image-cover-1.svg"> -->
+<https://al-susi.com/>
 
 ---
 
-![./image-cover-2.svg](./image-cover-2.svg)
+![./images/cover-1.svg](./images/cover-1.svg)
+
+<!-- <img src="./images/cover-1.svg"> -->
+
+---
+
+![./images/cover-2.svg](./images/cover-2.svg)
 
 <!-- <img src="./image-cover-2.svg"> -->
 

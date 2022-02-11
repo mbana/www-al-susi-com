@@ -13,32 +13,26 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        {/* <h1 className={styles.title}>
-          Welcome to <a href="https://nextjs.org">Next.js!</a>
-        </h1> */}
-
-        <hr className={styles.hr} />
-
-        <span>
-          <Image src="/cover-1.svg" alt="cover-1" width={1200} height={400} />
-        </span>
-
-        <hr className={styles.hr} />
+        <div className={styles.title}>
+          <Image src="/cover-1.svg" width={635} height={248} />
+        </div>
+        <div className={styles.title}>
+          <Image src="/cover-2.svg" width={2007} height={220} />
+        </div>
 
         <p className={styles.description}>
           <Link href="/al-susi.pdf">
             <a>Al-Susi&#39;s narration on the authority of Abu Amr Al-Basri - PDF</a>
           </Link>
+          <br/>
+          <Link href="/al-susi.pdf">
+            القرآن الكريم برواية السوسي عن أبي عمرو البصري - PDF
+          </Link>
         </p>
-        <p className={styles.description}>
-          <a href="/al-susi.pdf">القرآن الكريم برواية السوسي عن أبي عمرو البصري - PDF</a>
-        </p>
 
-        <hr className={styles.hr} />
-
-        <Image src="/cover-2.svg" alt="cover-1" width={600} height={200} />
-
-        <hr className={styles.hr} />
+        <div>
+          <Image src="/cover-mushaf.png" width={1532} height={2247} />
+        </div>
 
 
         {/* <p className={styles.description}>
